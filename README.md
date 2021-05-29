@@ -1,18 +1,22 @@
 ![image](https://raw.githubusercontent.com/AbHaY108BiShT/AbHaY108BiShT/main/meow.gif)
 
 
-val animeshz = about {
-    name = "Animesh Sahu"
+<h1 align="center">Hi 👋, I'm Abhay Bisht</h1>
+<h3 align="center">A programming enthusiast by hobby!</h3>
+<br>
+
+```kotlin
+val AbHaY108BiShT = about {
+    name = "Abhay Bisht"
     languages {
-        proficientIn = listOf("Kotlin", "Java")
-        familiarWith = listOf("Rust", "C++", "Python", "Bash")
-        lessInTouch = listOf("PHP", "Dart")
+        proficientIn = listOf("Python")
+        familiarWith = listOf("JavaScript", "C++", "React.js", "Node.js","DataScience")
+        lessInTouch = listOf("GameDev", "ML")
     }
 
     status {
-        + "Preparing for JEE 2021"
-        + "Working on KeyboardMouse.kt"
-        + "Learning Designing and GUI development"
-        + "Learning Android development (MAD)"
+        + "Working on MERN stack !!"
+        + "Learning Game development"
     }
 }
+```
