@@ -11,12 +11,10 @@ val AbHaY108BiShT = about {
     languages {
         proficientIn = listOf("Python")
         familiarWith = listOf("JavaScript", "C++", "React.js", "Node.js","DataScience")
-        lessInTouch = listOf("GameDev", "ML")
     }
 
     status {
         + "Working on MERN stack !!"
-        + "Learning Game development"
     }
 }
 ```
