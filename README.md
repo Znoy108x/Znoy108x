@@ -10,11 +10,11 @@ val AbHaY108BiShT = about {
     name = "Abhay Bisht"
     languages {
         proficientIn = listOf("Python")
-        familiarWith = listOf("JavaScript", "C++", "React.js", "Node.js","DataScience")
+        familiarWith = listOf("JavaScript", "C++", "React.js", "Node.js","DataScience","MERN stack")
     }
 
     status {
-        + "Working on MERN stack !!"
+        + "Working on Data Science and ML !!"
     }
 }
 ```
