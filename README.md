@@ -1,6 +1,14 @@
 ![image](https://raw.githubusercontent.com/AbHaY108BiShT/AbHaY108BiShT/main/meow.gif)
-
-
+<pre>
+----------------------------------------
+<span>Zendy, Hello World!!</span>
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
+</pre>
 <h1 align="center">Hi 👋, I'm Abhay Bisht</h1>
 <h3 align="center">A programming enthusiast by hobby!</h3>
 <br>
