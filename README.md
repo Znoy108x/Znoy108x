@@ -1,7 +1,8 @@
 ![image](https://raw.githubusercontent.com/AbHaY108BiShT/AbHaY108BiShT/main/meow.gif)
 <pre>
 ----------------------------------------
-<span>Abhay, Hello World!!</span>
+<span><h1 align="center">Hi 👋, I'm Abhay Bisht</h1></span><br>
+<h3 align="center">A programming enthusiast by hobby!</h3>
 ----------------------------------------
       \   ^__^
        \  (oo)\_______
@@ -9,8 +10,6 @@
               ||--0-w | \/
               ||     ||
 </pre>
-<h1 align="center">Hi 👋, I'm Abhay Bisht</h1>
-<h3 align="center">A programming enthusiast by hobby!</h3>
 <br>
 
 ```kotlin
