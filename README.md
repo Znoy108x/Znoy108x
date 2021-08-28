@@ -1,7 +1,7 @@
 ![image](https://raw.githubusercontent.com/AbHaY108BiShT/AbHaY108BiShT/main/meow.gif)
 <pre>
 ----------------------------------------
-<span><h1 align="center">Hi 👋, I'm Abhay Bisht</h1></span><br>
+<h1 align="center">Hi 👋, I'm Abhay Bisht</h1>
 <h3 align="center">A programming enthusiast by hobby!</h3>
 ----------------------------------------
       \   ^__^
