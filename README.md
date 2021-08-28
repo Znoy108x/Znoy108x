@@ -1,7 +1,7 @@
 ![image](https://raw.githubusercontent.com/AbHaY108BiShT/AbHaY108BiShT/main/meow.gif)
 <pre>
 ----------------------------------------
-<span>Zendy, Hello World!!</span>
+<span>Abhay, Hello World!!</span>
 ----------------------------------------
       \   ^__^
        \  (oo)\_______
