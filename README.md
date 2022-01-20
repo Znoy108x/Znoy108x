@@ -24,9 +24,7 @@ val AbHaY108BiShT = about {
         familiarWith = listOf("DSA","DataScience","Machine Learning","PyGames","MERN stack")
     }
     status {
-        + "Playing Games 24/7 !!",
-        + "Coding Sucks T_T"
+        + "Playing Games 24/7 !!"
     }
 }
 ```
-</br>
