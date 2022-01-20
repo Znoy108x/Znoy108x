@@ -26,4 +26,3 @@ val AbHaY108BiShT = about {
     }
 }
 ```
-[Abhay Bisht](https://www.instagram.com/gvt_starlord/?hl=en)
