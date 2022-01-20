@@ -23,7 +23,6 @@ val AbHaY108BiShT = about {
         proficientIn = listOf("Python" ,"C++")
         familiarWith = listOf("DSA","DataScience","Machine Learning","PyGames","MERN stack")
     }
-
     status {
         + "Playing Games 24/7 !!",
         + "Coding Sucks T_T"
