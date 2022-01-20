@@ -20,7 +20,7 @@
 [source,kotlin]
 ```
 val AbHaY108BiShT = about {
-    name = "Abhay Bisht"
+    "name" = "Abhay Bisht"
     languages {
         proficientIn = listOf("Python" ,"C++")
         familiarWith = listOf("DSA","DataScience","Machine Learning","PyGames","MERN stack")
