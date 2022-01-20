@@ -17,7 +17,6 @@
 </pre>
 <br>
 ```kotlin
-
 val AbHaY108BiShT = about {
     name = "Abhay Bisht"
     languages {
@@ -26,7 +25,7 @@ val AbHaY108BiShT = about {
     }
     status {
         + "Playing Games 24/7 !!",
-         + "Coding Sucks T_T"
+        + "Coding Sucks T_T"
     }
 }
 ```
