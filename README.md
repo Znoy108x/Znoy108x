@@ -15,9 +15,12 @@
 ```kotlin
 val AbHaY108BiShT = about {
     name = "Abhay Bisht"
+    age = 20
+    instagram = [Abhay Bisht](https://www.instagram.com/gvt_starlord/?hl=en)
+    
     languages {
-        proficientIn = listOf("Python")
-        familiarWith = listOf("C++","DataScience","Machine Learning","PyGames","MERN stack")
+        proficientIn = listOf("Python" ,"C++")
+        familiarWith = listOf("DSA","DataScience","Machine Learning","PyGames","MERN stack")
     }
 
     status {
