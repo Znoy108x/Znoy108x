@@ -17,6 +17,7 @@
 </pre>
 <br>
 ```kotlin
+
 val AbHaY108BiShT = about {
     name = "Abhay Bisht"
     languages {
@@ -24,7 +25,8 @@ val AbHaY108BiShT = about {
         familiarWith = listOf("DSA","DataScience","Machine Learning","PyGames","MERN stack")
     }
     status {
-        + "Playing Games 24/7 !!"
+        + "Playing Games 24/7 !!",
+         + "Coding Sucks T_T"
     }
 }
 ```
