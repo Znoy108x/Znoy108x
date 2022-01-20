@@ -3,6 +3,7 @@
 --------------------------------------------------------------------------------------------------------------------------------
 <h1 align="center">Hi 👋, I'm Abhay Bisht</h1>
 <h3 align="center">A programming enthusiast by hobby!</h3>
+instagram = [Abhay Bisht](https://www.instagram.com/gvt_starlord/?hl=en)
 --------------------------------------------------------------------------------------------------------------------------------
       \   ^__^
        \  (oo)\_______
@@ -11,13 +12,10 @@
               ||     ||
 </pre>
 <br>
-
 ```kotlin
 val AbHaY108BiShT = about {
     name = "Abhay Bisht"
     age = 20
-    instagram = [Abhay Bisht](https://www.instagram.com/gvt_starlord/?hl=en)
-    
     languages {
         proficientIn = listOf("Python" ,"C++")
         familiarWith = listOf("DSA","DataScience","Machine Learning","PyGames","MERN stack")
