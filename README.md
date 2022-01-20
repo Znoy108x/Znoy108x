@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------------------------------------------------------------
 <h1 align="center">Hi 👋, I'm Abhay Bisht</h1>
 <h3 align="center">A programming enthusiast by hobby!</h3>
-instagram = [Abhay Bisht](https://www.instagram.com/gvt_starlord/?hl=en)
+[Abhay Bisht](https://www.instagram.com/gvt_starlord/?hl=en)
 --------------------------------------------------------------------------------------------------------------------------------
       \   ^__^
        \  (oo)\_______
