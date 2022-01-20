@@ -14,7 +14,6 @@
           (__)\ 0   0 )\  *
               ||--0-w | \/
               ||     ||
-</pre>
 <br>
 ```kotlin
 val AbHaY108BiShT = about {
@@ -29,3 +28,4 @@ val AbHaY108BiShT = about {
     }
 }
 ```
+</pre>
