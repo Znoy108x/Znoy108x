@@ -1,5 +1,5 @@
 [![Instagram Badge](https://www.instagram.com/gvt_starlord/?hl=en)]
-![https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white]()
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gvt_starlord/?hl=en)
 ![image](https://raw.githubusercontent.com/AbHaY108BiShT/AbHaY108BiShT/main/meow.gif)
 <pre>
 --------------------------------------------------------------------------------------------------------------------------------
