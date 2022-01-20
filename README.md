@@ -21,7 +21,8 @@ val AbHaY108BiShT = about {
     }
 
     status {
-        + "Working on Data Science and ML !!"
+        + "Playing Games 24/7 !!"
+        + "Coding Sucks T_T"
     }
 }
 ```
