@@ -1,4 +1,6 @@
+[![Instagram Badge](https://www.instagram.com/gvt_starlord/?hl=en)]
 ![image](https://raw.githubusercontent.com/AbHaY108BiShT/AbHaY108BiShT/main/meow.gif)
+![image]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
 <pre>
 --------------------------------------------------------------------------------------------------------------------------------
 <h1 align="center">Hi 👋, I'm Abhay Bisht</h1>
