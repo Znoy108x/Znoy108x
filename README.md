@@ -1,4 +1,4 @@
-# Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Abhay Bisht <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+# Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Abhay Bisht </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
       
       
       
@@ -10,16 +10,17 @@
       <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
       <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
 </p>
-            
-      
-<!--       
-
-          ^__^
-          (oo)\_______
-          (__)\ 0   0 )\  *
-              ||--0-w | \/
-              ||     ||
- -->
+<pre>
+       /ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ\
+      |i'm From RA 18h 9m 33s | Dec -23° 51′ 15″ |
+       ˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇ
+            \
+              ^__^
+              (oo)\_______
+              (__)\ 0   0 )\  *
+                  ||--0-w | \/                                                                       
+                  ||     ||                                                                                              ^.^
+</pre>
       
 ## About
 I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose University .
