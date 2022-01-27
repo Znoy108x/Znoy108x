@@ -13,5 +13,5 @@
               ||--0-w | \/
               ||     ||
 </pre>
-![snake](https://raw.githubusercontent.com/AbHaY108BiShT/AbHaY108BiShT/main/snake.gif?token=GHSAT0AAAAAABNKEIVEPQWMK4CK4J5TYEK6YPSLEFQ)
+ ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
 
