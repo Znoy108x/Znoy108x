@@ -9,26 +9,29 @@
       
       
       
-<pre>
+Hello 💙
+-------------------
 
           ^__^
           (oo)\_______
           (__)\ 0   0 )\  *
               ||--0-w | \/
               ||     ||
-</pre>
       
 ## About
 
 I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose University .
 <!--       Tech -->
-## Familiar With These Technologies :fire:
+## Familiar With  :fire:
 - Data Science.
+- Tkinter
+- Pygames
 - Data Analysis with **Python**.
 - Python.
 - **MERN** Stack.
 - C++
 - Competitive Programming. 
+- DSA
 <!--       Tech -->
       
 <!--  git hub matrix -->
@@ -50,21 +53,10 @@ I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose Universit
 <img align="left" alt="react" width="30px" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg" />
 <img align="left" alt="node.js" hight="60px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_XanOL-jJfrFnbIDYp9Q0e8wa4PL-Wdiicw&usqp=CAU" />
 <br>
-
-     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashwanisng&layout=compact&theme=light"/>
-<br/>
+<br>
+<br>
+<br>
       
-      
-##  Contact Me :speech_balloon:
-<!--       links -->
-<table>
-        <tr>
-<td><a href="https://www.linkedin.com/in/abhay-bisht-042662177/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
-      <td><a href="https://www.instagram.com/og_starlord/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a></td>
-        <td><a href="https://www.youtube.com/channel/UCugIZ91q6x0MpXSHB0W2InA"><img src="https://img.shields.io/badge/youtube--_.svg?style=social&logo=youtube" alt="Youtube"></a></td>
-  </tr>
-</table>
-<!--       links -->
       
       
       
@@ -75,16 +67,37 @@ I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose Universit
       
       
 <!--       spotify -->
- <hr>
   
 ### Spotify Playing 🎧
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
-<br/>
  
- <hr>
 <!--       spotify -->
+
+      
+<!--    Contact   -->
+##  Contact Me :speech_balloon:
+<table>
+        <tr>
+<td><a href="https://www.linkedin.com/in/abhay-bisht-042662177/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+  </tr>
+</table>   
+<!--   Contact    -->
+      
+      
+      
+      
+<!--    Check   -->
+##  CheckOut 🔥
+<table>
+        <tr>
+      <td><a href="https://www.instagram.com/og_starlord/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a></td>
+        <td><a href="https://www.youtube.com/channel/UCugIZ91q6x0MpXSHB0W2InA"><img src="https://img.shields.io/badge/youtube--_.svg?style=social&logo=youtube" alt="Youtube"></a></td>
+  </tr>
+</table>
+<!--       Check -->
+   
       
       
       
