@@ -1,7 +1,14 @@
 # Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Abhay Bisht <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
       
-![image](https://raw.githubusercontent.com/AbHaY108BiShT/AbHaY108BiShT/main/meow.gif?token=GHSAT0AAAAAABNKEIVEYA44CLDTDUD5F6AOYPSLOQA)
-
+      
+      
+      
+<!--       cat gif -->
+![image](https://github.com/AbHaY108BiShT/AbHaY108BiShT/blob/main/meow.gif?raw=true)
+<!-- cat gif -->
+      
+      
+      
 <pre>
 
           ^__^
@@ -15,16 +22,37 @@
 
 I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose University .
 <!--       Tech -->
-## Technologies :fire:
+## Familiar With These Technologies :fire:
 - Data Science.
 - Data Analysis with **Python**.
 - Python.
 - **MERN** Stack.
+- C++
 - Competitive Programming. 
 <!--       Tech -->
       
+<!--  git hub matrix -->
 ![GitHub metrics](https://metrics.lecoq.io/AbHaY108BiShT)  <br>  
-      
+<!--       git hub matrix -->
+ ## Languages and Framework:
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
+<img align="left" alt="C++" width="30px" src="https://brandslogos.com/wp-content/uploads/images/c-logo.png" />
+<img align="left" alt="OpenCV" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" />
+<img align="left" alt="Numpy" width="30px" src="https://numpy.org/images/logo.svg" />
+<img align="left" alt="Pandas" hight="60px" width="80px" src="https://pandas.pydata.org/docs/_static/pandas.svg" />
+<img align="left" alt="Matplotlib" hight="60px" width="80px" src="https://matplotlib.org/3.5.0/_static/logo2.svg" />
+<img align="left" alt="Seaborn" hight="70px" width="80px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
+<img align="left" alt="Pygames" hight="50px" width="80px" src="https://www.pygame.org/images/logo_lofi.png" />
+<img align="left" alt="Streamlit" width="30px" src="https://docs.streamlit.io/logo.svg" />
+<img align="left" alt="js" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3uoD-_8KuiZjNR3NK8NL5zDqlB-pHKWR6w9EKdE&usqp=CAU" />
+<img align="left" alt="react" width="30px" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg" />
+<img align="left" alt="node.js" hight="60px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_XanOL-jJfrFnbIDYp9Q0e8wa4PL-Wdiicw&usqp=CAU" />
+<br>
+
+     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashwanisng&layout=compact&theme=light"/>
+<br/>
       
       
 ##  Contact Me :speech_balloon:
@@ -45,7 +73,22 @@ I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose Universit
 <!--       git hub stat -->
 
       
+      
+<!--       spotify -->
+ <hr>
+  
 ### Spotify Playing 🎧
+
 ![Spotify](https://novatorem.vercel.app/api/spotify)
+
 <br/>
+ 
+ <hr>
+<!--       spotify -->
+      
+      
+      
+      
+<!--       snake -->
 ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+<!-- snake -->
