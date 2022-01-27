@@ -18,11 +18,9 @@
 
 <table>
   <tr>
-      <td><a href="https://github.com/ashwanisng"><img src="https://img.shields.io/github/followers/ashwanisng.svg?label=GitHub&style=social" alt="GitHub"></a></td>
-      <td><a href="https://twitter.com/ashwanisng"><img src="https://img.shields.io/twitter/follow/ashwanisng?label=Twitter&style=social" alt="Twitter"></a></td>
-      <td><a href="https://www.linkedin.com/in/ashwanisng"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
-      <td><a href="https://www.instagram.com/in/ashwanisng"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a></td>
-      <td><a href="mailto:ashwanicena5@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+      <td><a href="https://www.linkedin.com/in/abhay-bisht-042662177/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+      <td><a href="https://www.instagram.com/og_starlord/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a></td>
+        <td><a href="https://www.youtube.com/channel/UCugIZ91q6x0MpXSHB0W2InA"><img src="https://img.shields.io/badge/youtube--_.svg?style=social&logo=youtube" alt="Youtube"></a></td>
   </tr>
 </table>
 
