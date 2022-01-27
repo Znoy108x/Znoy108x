@@ -1,5 +1,4 @@
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gvt_starlord/?hl=en)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCugIZ91q6x0MpXSHB0W2InA)
+# Hello, I am <a href="https://avatars.githubusercontent.com/u/75539409?v=4">Abhay Bisht <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 ![image](https://raw.githubusercontent.com/AbHaY108BiShT/AbHaY108BiShT/main/meow.gif?token=GHSAT0AAAAAABNKEIVEYA44CLDTDUD5F6AOYPSLOQA)
 <pre>
 --------------------------------------------------------------------------------------------------------
