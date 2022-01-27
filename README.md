@@ -1,6 +1,6 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gvt_starlord/?hl=en)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCugIZ91q6x0MpXSHB0W2InA)
-![image](https://github.com/AbHaY108BiShT/AbHaY108BiShT/meow.gif)
+![image](https://raw.githubusercontent.com/AbHaY108BiShT/AbHaY108BiShT/main/meow.gif)
 <!-- https://raw.githubusercontent.com/AbHaY108BiShT/AbHaY108BiShT/main/meow.gif -->
 <pre>
 --------------------------------------------------------------------------------------------------------
