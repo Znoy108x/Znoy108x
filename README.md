@@ -6,20 +6,22 @@
 <!--       cat gif -->
 ![image](https://github.com/AbHaY108BiShT/AbHaY108BiShT/blob/main/meow.gif?raw=true)
 <!-- cat gif -->
+<p align="center"> 
+      <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+      <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
+</p>
+            
       
-      
-      
-Hello 💙
--------------------
+<!--       
 
           ^__^
           (oo)\_______
           (__)\ 0   0 )\  *
               ||--0-w | \/
               ||     ||
+ -->
       
 ## About
-
 I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose University .
 <!--       Tech -->
 ## Familiar With  :fire:
