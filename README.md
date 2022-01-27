@@ -13,5 +13,5 @@
               ||--0-w | \/
               ||     ||
 </pre>
-![snake](https://github.com/AbHaY108BiShT/AbHaY108BiShT/snake.gif)
+![snake](https://raw.githubusercontent.com/AbHaY108BiShT/AbHaY108BiShT/main/snake.gif?token=GHSAT0AAAAAABNKEIVEPQWMK4CK4J5TYEK6YPSLEFQ)
 
