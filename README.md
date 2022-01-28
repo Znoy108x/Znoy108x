@@ -55,7 +55,6 @@ I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose Universit
 <img align="left" alt="Streamlit" width="30px" src="https://docs.streamlit.io/logo.svg" />
 <img align="left" alt="js" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3uoD-_8KuiZjNR3NK8NL5zDqlB-pHKWR6w9EKdE&usqp=CAU" />
 <img align="left" alt="react" width="30px" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg" />
-<img align="left" alt="node.js" hight="60px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_XanOL-jJfrFnbIDYp9Q0e8wa4PL-Wdiicw&usqp=CAU" />
 <br>
 <br>
 <br>
