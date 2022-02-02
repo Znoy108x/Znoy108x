@@ -64,7 +64,8 @@ I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose Universit
       
       
 <!--       git hub stat -->
-<img src="https://github-readme-stats.vercel.app/api?username=AbHaY108BiShT&&show_icons=true&&theme=radical">  
+![image](https://c.tenor.com/q8w4UWZP2_MAAAAM/goku.gif) ![image](https://c.tenor.com/MEhh-TDjqvgAAAAM/superkamehamehag.gif)
+<img src="https://github-readme-stats.vercel.app/api?username=AbHaY108BiShT&&show_icons=true&&theme=radical">![image]
 <!--       git hub stat -->
 
       
@@ -73,7 +74,7 @@ I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose Universit
   
 ### Spotify Playing 🎧
 
-![Spotify](https://novatorem.vercel.app/api/spotify)
+![Spotify](https://novatorem.vercel.app/api/spotify)   
 
  
 <!--       spotify -->
@@ -83,7 +84,7 @@ I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose Universit
 ##  Contact Me :speech_balloon:
 <table>
         <tr>
-<td><a href="https://www.linkedin.com/in/abhay-bisht-042662177/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+<td><a href="https://www.linkedin.com/in/abhay-bisht-042662177/"><img  src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
   </tr>
 </table>   
 <!--   Contact    -->
