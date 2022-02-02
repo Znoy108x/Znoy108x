@@ -65,7 +65,7 @@ I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose Universit
       
 <!--       git hub stat -->
 ![image](https://c.tenor.com/q8w4UWZP2_MAAAAM/goku.gif) ![image](https://c.tenor.com/MEhh-TDjqvgAAAAM/superkamehamehag.gif)
-<img src="https://github-readme-stats.vercel.app/api?username=AbHaY108BiShT&&show_icons=true&&theme=radical">![image]
+<img src="https://github-readme-stats.vercel.app/api?username=AbHaY108BiShT&&show_icons=true&&theme=radical">
 <!--       git hub stat -->
 
       
