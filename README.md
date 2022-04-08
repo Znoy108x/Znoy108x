@@ -34,8 +34,9 @@ I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose Universit
 - Python.
 - **MERN** Stack.
 - C++
-- Competitive Programming. 
 - DSA
+- **NEXT**.js
+- **Tailwind**.css
 <!--       Tech -->
       
 <!--  git hub matrix -->
@@ -55,10 +56,14 @@ I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose Universit
 <img align="left" alt="Streamlit" width="30px" src="https://docs.streamlit.io/logo.svg" />
 <img align="left" alt="js" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3uoD-_8KuiZjNR3NK8NL5zDqlB-pHKWR6w9EKdE&usqp=CAU" />
 <img align="left" alt="react" width="30px" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg" />
+<img align="left" alt="next.js" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzARNVkSWZqn8IYjii1-Vl1I1Al3NQ8p8G3Q&usqp=CAU" />
+<img align="left" alt="tailwind" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSudTaUnXSPt35bThwvk9_Gr5jCeJPGIxYhfg&usqp=CAU" />
 <br>
 <br>
 <br>
 <br>
+
+
       
       
       
