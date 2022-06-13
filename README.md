@@ -40,7 +40,7 @@ I am Abhay Bisht. I am a Second-year undergraduate student at J.C Bose Universit
 <!--       Tech -->
       
 <!--  git hub matrix -->
-![GitHub metrics](https://metrics.lecoq.io/AbHaY108BiShT)  <br>  
+![GitHub metrics](https://metrics.lecoq.io/Znoy108x)  <br>  
 <!--       git hub matrix -->
  ## Languages and Framework:
 
