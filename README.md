@@ -1,5 +1,5 @@
 # Hello I'm Abhay Bisht   
-- I'm a 4th-year B.Tech Computer Science student at **J.C Bose University**.
+- I'm a 4th-year B.Tech Computer Science student at **J.C Bose University** Of Science & Technology.
 - I love video games a lot like **Mario** ^.^
   
 ![mario2](https://github.com/Znoy108x/Znoy108x/assets/75539409/4f297495-b6cd-4e49-b384-44ef33ff0c55)
@@ -10,7 +10,7 @@
 
 - ♂️ Pronouns (He/His/Him)
 - 📍 I live in Haryana, India
-- I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS & NodeJS.
+- I am currently working with technologies based on Javascript. Technologies such as ReactJS, Redux, NextJS & NodeJS.
 - I am familiar with :
   -  **Frontend Development**
       - I am proficient in creating reusable components and have plenty to experience in creating good-looking UI.
