@@ -27,9 +27,28 @@
 
 **Other**
 - Languages&nbsp;&nbsp;:&nbsp;&nbsp;Python, JavaScript, TypeScript, C++
-- Frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;React js, Redux, Context Api, Next js, React Native, Tailwind CSS, Html , CSS
+- Frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;React js, Redux, Context Api, Next js, React Native, Tailwind CSS, Html, CSS
 - Backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Node js, Express, Mongo Db, Rest API, Graph Ql
 - Other &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Data Structures & Algorithms, Data Science, Data Analysis, Web Scraping, Post Man, Git Hub
+
+
+<p align="left">
+<img src="https://cdn.svgporn.com/logos/python.svg" alt="python" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="c++" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind css" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="node" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="express" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongo db" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="40" height="40"/> 
+<img src="https://cdn.svgporn.com/logos/postman-icon.svg" alt="postman" width="40" height="40"/> 
+</p>
   
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
