@@ -44,7 +44,6 @@
 <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" width="40" height="40"/> 
 <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" width="40" height="40"/> 
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="node" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="express" width="40" height="40"/> 
 <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongo db" width="40" height="40"/> 
 <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="40" height="40"/> 
 <img src="https://cdn.svgporn.com/logos/postman-icon.svg" alt="postman" width="40" height="40"/> 
