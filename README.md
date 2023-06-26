@@ -1,6 +1,6 @@
 # Hello I'm Abhay Bisht   
-- I'm a 4th-year B.Tech Computer Science student at **J.C Bose University** Of Science & Technology.
-- I love video games a lot like **Mario** ^.^
+- I'm a 4th-year B.Tech Computer Science student with a specialization in Data Science at **J.C Bose University** Of Science & Technology.
+- I like to play video games a lot.
   
 ![mario2](https://github.com/Znoy108x/Znoy108x/assets/75539409/4f297495-b6cd-4e49-b384-44ef33ff0c55)
 
