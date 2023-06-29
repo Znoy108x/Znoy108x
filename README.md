@@ -25,7 +25,7 @@
 
 ![image](https://github.com/AbHaY108BiShT/AbHaY108BiShT/blob/main/meow.gif?raw=true)
 
-**Other**
+**Skills**
 - Languages&nbsp;&nbsp;:&nbsp;&nbsp;Python, JavaScript, TypeScript, C++
 - Frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;React js, Redux, Context Api, Next js, React Native, Tailwind CSS, Html, CSS
 - Backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Node js, Express, Mongo Db, Rest API, Graph Ql
