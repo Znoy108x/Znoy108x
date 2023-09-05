@@ -1,10 +1,7 @@
 # Hello I'm Abhay Bisht   
-- I'm a 4th-year B.Tech Computer Science student with a specialization in Data Science at **J.C Bose University** Of Science & Technology.
-- I like to play video games a lot.
+- Doint B.Tech in Computer Science with a specialization in Data Science from **J.C Bose University** Of Science & Technology.
   
 ![mario2](https://github.com/Znoy108x/Znoy108x/assets/75539409/4f297495-b6cd-4e49-b384-44ef33ff0c55)
-
-
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
@@ -13,10 +10,10 @@
 - I am currently working with technologies based on Javascript. Technologies such as ReactJS, Redux, React Native, NextJS & NodeJS.
 - I am familiar with :
   -  **Frontend Development**
-      - I am proficient in creating reusable components and have plenty to experience in creating good-looking UI.
+      - I am proficient in creating reusable components and have plenty of experience in creating good-looking UI.
       - I have knowledge of ReactJS, Redux, NextJs, Tailwind CSS, HTML, CSS, JavaScript & TypeScript.
   -  **Backend Development**
-      - I am proficient in creating APIs and have plenty to experience in performing CRUD operations.
+      - I am proficient in creating APIs and have plenty of experience in performing CRUD operations.
       - I have knowledge of NodeJs, Express, MongoDB, Postman, RestApi, and GraphQl.
   -  **Native App Development**
       - I have hands-on practice in React Native for creating applications for native devices.
