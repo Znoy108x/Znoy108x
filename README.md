@@ -1,5 +1,5 @@
 # Hello I'm Abhay Bisht   
-- Doint B.Tech in Computer Science with a specialization in Data Science from **J.C Bose University** Of Science & Technology.
+- Doing B.Tech in Computer Science with a specialization in Data Science from **J.C Bose University** Of Science & Technology.
   
 ![mario2](https://github.com/Znoy108x/Znoy108x/assets/75539409/4f297495-b6cd-4e49-b384-44ef33ff0c55)
 
