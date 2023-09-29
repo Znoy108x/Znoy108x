@@ -3,9 +3,8 @@
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-- ♂️ Pronouns (He/His/Him)
 - 📍 I live in Haryana, India
-- I am currently working with technologies based on Javascript. Technologies such as ReactJS, Redux, React Native, NextJS & NodeJS.
+- I am currently working with technologies based on Javascript. Technologies such as ReactJS, Redux, React Native, NextJS, NodeJS & ExpressJS.
 - I am familiar with :
   -  **Frontend Development**
       - I am proficient in creating reusable components and have plenty of experience in creating good-looking UI.
