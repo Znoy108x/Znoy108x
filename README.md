@@ -22,27 +22,63 @@
 
 **Skills**
 - Languages&nbsp;&nbsp;:&nbsp;&nbsp;Python, JavaScript, TypeScript, C++
-- Frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;React js, Redux, Context Api, Next js, React Native, Tailwind CSS, Html, CSS
+- Frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp; React js, Redux, Context Api, Next js, React Native, Tailwind CSS, Html, CSS
 - Backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Node js, Express, Mongo Db, Rest API, Graph Ql
 - Other &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Data Structures & Algorithms, Data Science, Data Analysis, Web Scraping, Post Man, Git Hub
 
+## Tech Stack 🔮 
+<table style="height: 452px; width: 778px;" align="center">
+<tbody>
+  <tr>
+    <td align="center"><strong>&nbsp;Category/Status</strong></td>
+    <td align="center"><strong>Currently used</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center">
+	    <img src="https://skillicons.dev/icons?i=py,javascript,typescript,cpp" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center">
+    	<img src="https://skillicons.dev/icons?i=react,redux,nextjs,html,css,tailwind,materialui" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center">
+    	<img src="https://skillicons.dev/icons?i=express,nodejs,graphql,apollo,postman,jest" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases</strong>&nbsp;&nbsp;</td>
+    <td align="center">
+    	    <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,mysql,redis,planetscale" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Operating Systems&nbsp;</strong></td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="windows" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>IDE</strong>&nbsp;</td>
+    <td align="center">
+    	<img src="https://skillicons.dev/icons?i=vscode,replit,atom" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>&nbsp;Other</strong></td>
+    <td align="center">
+    	    <img src="https://skillicons.dev/icons?i=docker,git,kubernetes,github" />
+    </td>
+  </tr>
+</tbody>
+</table>
+<br />
 
-<p align="left">
-<img src="https://cdn.svgporn.com/logos/python.svg" alt="python" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="c++" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind css" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="node" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongo db" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="40" height="40"/> 
-<img src="https://cdn.svgporn.com/logos/postman-icon.svg" alt="postman" width="40" height="40"/> 
-</p>
   
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
